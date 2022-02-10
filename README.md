@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo semua 👋
+
+Perkenalkan nama saya **Muhammad Jindan**.
+
+Saya seorang **Cloud Computing Developer** yang sedang belajar di [Dicoding](https://www.dicoding.com/).
+
+Saya adalah seorang Mahasiswa Teknik Informatika Universitas Tadulako
+
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-jindan/)ku ya.
 
 <!--
 **jindanza/jindanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
