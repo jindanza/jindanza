@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Jindan</h1>
-<img align="right" alt="computer" width="400" src="https://media.tenor.com/FFkOPFbwhu0AAAAd/computer-funny.gif">
+<img align="right" alt="computer" width="400" src="https://media.tenor.com/FFkOPFbwhu0AAAAd/computer-funny.gif" style="border-radius: 30px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jindanza&label=Profile%20views&color=0e75b6&style=flat" alt="jindanza" /> </p>
 
