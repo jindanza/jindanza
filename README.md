@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Jindan</h1>
-<img align="right" alt="computer" width="400" src="https://clipart-library.com/images/8TEbRyq7c.gif">
+![image](https://github.com/jindanza/jindanza/assets/61872252/e5dda451-51d1-4993-aa1f-dfbd0e3d22dd)<h1 align="center">Hi 👋, I'm Muhammad Jindan</h1>
+<img align="right" alt="computer" width="400" src="[https://clipart-library.com/images/8TEbRyq7c.gif](https://thumbs.gfycat.com/FoolishCompetentAegeancat-max-1mb.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jindanza&label=Profile%20views&color=0e75b6&style=flat" alt="jindanza" /> </p>
 
