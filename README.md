@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Jindan</h1>
-<h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="computer" width="400" src="https://clipart-library.com/images/8TEbRyq7c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jindanza&label=Profile%20views&color=0e75b6&style=flat" alt="jindanza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jindanza" alt="jindanza" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Angular, Vue.js and Nest.js**
 
