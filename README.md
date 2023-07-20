@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Jindan</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" alt="computer" width="400" src="![image](https://github.com/jindanza/jindanza/assets/61872252/11de63ef-f117-41b8-80d9-fcf24db6f038)
-">
+<img align="right" alt="computer" width="400" src="https://clipart-library.com/images/8TEbRyq7c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jindanza&label=Profile%20views&color=0e75b6&style=flat" alt="jindanza" /> </p>
 
