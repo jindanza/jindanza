@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jindanza&label=Profile%20views&color=0e75b6&style=flat" alt="jindanza" /> </p>
 
-- 🌱 I’m currently learning **Angular, Vue.js and Nest.js**
+- 🌱 I’m currently learning **C# and .NET**
 
 - 📫 How to reach me **jindanza7@gmail.com**
 
